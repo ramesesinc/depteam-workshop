@@ -1,0 +1,7 @@
+class Test {
+	
+	public String toString() {
+		return 'Hello World';
+	}
+
+}
